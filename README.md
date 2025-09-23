@@ -14,5 +14,13 @@ It's important to me that software doesn't create headaches, but helps people �
 
 🌍 Always exploring new tools and technologies  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Father1993&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Father1993&layout=compact&theme=tokyonight)  
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Father1993&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://streak-stats.demolab.com?user=Father1993&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Father1993&layout=compact&theme=tokyonight">
+</p>
