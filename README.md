@@ -1,11 +1,11 @@
-# Hello! 👋
+# Hello!
 
-💻 A full-stack developer who loves making web technologies simple and convenient.  
+A full-stack developer who loves making web technologies simple and convenient.  
 It's important to me that software doesn't create headaches, but helps people — quickly, clearly, and effectively.  
 
 ---
 
-## 🛠️ My stack
+## My stack
 - **Frontend:** JavaScript, TypeScript, Next.js, HTML, CSS  
 - **Backend:** Node.js, PHP, Python, SQL, PostgreSQL, MySQL  
 - **DevOps / Tools:** Linux, Git, Docker, Bash  
