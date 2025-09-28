@@ -1,7 +1,7 @@
 # Hello!
 
-A full-stack developer who loves making web technologies simple and convenient.  
-It's important to me that software doesn't create headaches, but helps people — quickly, clearly, and effectively.  
+I'm a full-stack developer who loves making web technologies simple and user-friendly.
+It's important to me that software doesn't create headaches, but rather helps people—quickly, clearly, and effectively.  
 
 ---
 
