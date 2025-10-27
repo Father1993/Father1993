@@ -9,7 +9,6 @@ It's important to me that software doesn't create headaches, but rather helps pe
 - **Frontend:** JavaScript, TypeScript, Next.js, HTML, CSS  
 - **Backend:** Node.js, PHP, Python, SQL, PostgreSQL, MySQL  
 - **DevOps / Tools:** Linux, Git, Docker, Bash  
-
 ---
 
 🌍 Always exploring new tools and technologies  
