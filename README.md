@@ -7,7 +7,7 @@ It's important to me that software doesn't create headaches, but rather helps pe
 
 ## My stack
 - **Frontend:** JavaScript, TypeScript, Next.js, HTML, CSS  
-- **Backend:** Node.js, PHP, Python, SQL, PostgreSQL, MySQL  
+- **Backend:** Node.js, PHP, Python, SQL, PostgreSQL 
 - **DevOps / Tools:** Linux, Git, Docker, Bash  
 ---
 
