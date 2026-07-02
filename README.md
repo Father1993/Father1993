@@ -7,8 +7,8 @@ It's important to me that software doesn't create headaches, but rather helps pe
 
 ## My stack
 - **Frontend:** JavaScript, TypeScript, Next.js, React, HTML, CSS  
-- **Backend:** Node.js, PHP, Python, SQL, PostgreSQL, Supabase 
-- **DevOps / Tools:** Linux, Git, Proxmox, Grafana, Docker, Bash  
+- **Backend:** Node.js, PHP, Go, Python, SQL, PostgreSQL, Supabase 
+- **DevOps / Tools:** Linux, Git, AWS, Proxmox, Grafana, Docker, Bash
 ---
 
 🌍 Always exploring new tools and technologies  
